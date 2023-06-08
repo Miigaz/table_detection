@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <table>
+    <Coords points="10,10 1260,302 1260,302 1260,10"/>
+    <cell end-col="0" end-row="0" start-col="0" start-row="0">
+      <Coords points="115,35 115,72 371,35 371,72"/>
+      <Text value="Manufacturer "/>
+    </cell>
+    <cell end-col="0" end-row="4" start-col="0" start-row="1">
+      <Coords points="115,72 115,215 371,72 371,215"/>
+      <Text value="Intel "/>
+    </cell>
+    <cell end-col="1" end-row="0" start-col="1" start-row="0">
+      <Coords points="371,35 371,72 659,35 659,72"/>
+      <Text value="Processor "/>
+    </cell>
+    <cell end-col="1" end-row="2" start-col="1" start-row="1">
+      <Coords points="371,72 371,144 659,72 659,144"/>
+      <Text value="Celeron "/>
+    </cell>
+    <cell end-col="1" end-row="4" start-col="1" start-row="3">
+      <Coords points="371,144 371,215 659,144 659,215"/>
+      <Text value="Pentium 4 "/>
+    </cell>
+    <cell end-col="2" end-row="0" start-col="2" start-row="0">
+      <Coords points="659,35 659,72 889,35 889,72"/>
+      <Text value="Clock Speed "/>
+    </cell>
+    <cell end-col="2" end-row="1" start-col="2" start-row="1">
+      <Coords points="659,72 659,109 889,72 889,109"/>
+      <Text value="1.7 Ghz "/>
+    </cell>
+    <cell end-col="2" end-row="2" start-col="2" start-row="2">
+      <Coords points="659,109 659,144 889,109 889,144"/>
+      <Text value="1.8 Ghz "/>
+    </cell>
+    <cell end-col="2" end-row="3" start-col="2" start-row="3">
+      <Coords points="659,144 659,179 889,144 889,179"/>
+      <Text value="2.66 Ghz "/>
+    </cell>
+    <cell end-col="2" end-row="4" start-col="2" start-row="4">
+      <Coords points="659,179 659,215 889,179 889,215"/>
+      <Text value="2.88 Ghz "/>
+    </cell>
+    <cell end-col="3" end-row="0" start-col="3" start-row="0">
+      <Coords points="889,35 889,72 1029,35 1029,72"/>
+      <Text value="Price "/>
+    </cell>
+    <cell end-col="3" end-row="1" start-col="3" start-row="1">
+      <Coords points="889,72 889,109 1029,72 1029,109"/>
+      <Text value="50.99 "/>
+    </cell>
+    <cell end-col="3" end-row="2" start-col="3" start-row="2">
+      <Coords points="889,109 889,144 1029,109 1029,144"/>
+      <Text value="65.99 "/>
+    </cell>
+    <cell end-col="3" end-row="3" start-col="3" start-row="3">
+      <Coords points="889,144 889,179 1029,144 1029,179"/>
+      <Text value="289.99 "/>
+    </cell>
+    <cell end-col="3" end-row="4" start-col="3" start-row="4">
+      <Coords points="889,179 889,215 1029,179 1029,215"/>
+      <Text value="381.99 "/>
+    </cell>
+  </table>
+</document>
